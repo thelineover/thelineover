@@ -12,8 +12,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=thelineover)
 
 ## Going to
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelineover&layout=compact&theme=merko&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
 ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelineover&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelineover&layout=compact&theme=merko&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## R&D Project
 > 2022년 현재까지 수행한 프로젝트 목록, Done ✅ Going 🚀   
