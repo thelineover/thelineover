@@ -17,7 +17,7 @@
 
 ## R&D Project
 > 2022년 현재까지 수행한 프로젝트 목록, Done ✅ Going 🚀   
-> [NTIS](https://www.ntis.go.kr/ThMain.do?pcYn=Y) 조회 자료만 근거함   
+> [NTIS](https://www.ntis.go.kr/ThMain.do?pcYn=Y) 조회 자료만 근거함 (과제링크는 로그인 필요)   
 > 프로젝트 세부 보고서는 보안정보로 필요시에만 공개
 
 |순번|**과제명**|수행기간|역할|참여기간|상태|
