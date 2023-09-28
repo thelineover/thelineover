@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=flat-squeare"/>
-  
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
@@ -30,7 +29,7 @@
 ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelineover&show_icons=true&theme=merko)
 
 ## R&D Project
-> 2023년 현재까지 수행한 프로젝트 목록, Done ✅ Going 🚀   
+> 2023년 현재까지 수행한 프로젝트 목록, Done ✅ Going 🚀  
 > [NTIS](https://www.ntis.go.kr/ThMain.do?pcYn=Y) 조회 자료만 근거함 (과제링크는 로그인 필요)  
 > 프로젝트 세부 보고서는 보안정보로 필요시에만 공개
 
